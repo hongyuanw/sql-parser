@@ -1,7 +1,7 @@
 # sql-parser
 learn sql parser by writing one
 
-# ToDo
+# todo
 - [ ] SQLUtils
 - [ ] builder
 - [ ] ast
