@@ -2,9 +2,11 @@
 learn sql parser by writing one
 
 # todo
-- [ ] SQLUtils
+- [ ] SQLUtil
+    - [ ] parseStatement 
 - [ ] builder
 - [ ] ast
+    - [ ] SQLStatement 
 - [ ] parser
 - [ ] visitor
 
