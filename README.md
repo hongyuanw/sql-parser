@@ -7,6 +7,11 @@ learn sql parser by writing one
 - [ ] builder
 - [ ] ast
     - [ ] SQLStatement 
+    - [ ] SQLCreateStatement 
+    - [ ] SQLDeleteStatement 
+    - [ ] SQLInsertStatement 
+    - [ ] SQLSelectStatement 
+    - [ ] SQLUpdateStatement 
 - [ ] parser
 - [ ] visitor
 
