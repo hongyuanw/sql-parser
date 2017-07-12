@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class SQLUtil {
 
-    List<SQLStatement> parseStatements(String sql) {
+    public static List<SQLStatement> parseStatements(String sql) {
 
         // TODO: 7/10/17  
         return null;
